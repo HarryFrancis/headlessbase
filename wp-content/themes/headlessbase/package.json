@@ -1,0 +1,23 @@
+{
+  "name": "headlessbase",
+  "version": "1.0.0",
+  "description": "A basic theme using the WordPress REST API and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HarryFrancis/headless-base.git"
+  },
+  "keywords": [
+    "react",
+    "rest-api"
+  ],
+  "author": "Harry Francis",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/HarryFrancis/headless-base/issues"
+  },
+  "homepage": "https://github.com/HarryFrancis/headless-base#readme"
+}
